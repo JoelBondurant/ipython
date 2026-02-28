@@ -1,0 +1,11 @@
+altair
+cryptography
+ipython
+matplotlib
+numpy
+pandas
+polars
+pyarrow
+requests
+seaborn
+uuid6
